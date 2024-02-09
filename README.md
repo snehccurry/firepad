@@ -15,7 +15,7 @@ Well in one line if i had to cramp it down, i'd say it had the best experience p
 I'm on a mission to bring it back, not everyone understands a good taste or may be it was a genuine marketing mistake, which I know is. 
 
 
-Well, Well, Well. I'm here to revive it. I remember talking to one of my ex over text on that phone, well it was my brother's phone but then i loved that typing experience,
+Well, Well, Well. I'm here to revive it. it was my brother's phone but then i loved that typing experience,
 with those same sound effects, and i'm thrilled to announce that I've managed to get those sound effects for your keyboard, it's just amazing. 
 so, here's another project in your name firegirl. 
 
