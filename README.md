@@ -4,7 +4,7 @@ Immersive keyboard experience for developers.
 <h3>Overview</h3>
 Firepad brings the immersive experience of classic Lumia phone and sci-fi-themed keypads to your desktop. Designed for developers who appreciate the aesthetics of the green/cyan Lucia console but miss the accompanying sound effects, Firepad enhances your coding environment with its unique keyboard sounds.
 
-<h5>Features</h5>
+<h3>Features</h3>
 Lumia Keypad Theme: Relive the classic Lumia phone experience with this meticulously designed keypad theme.
 Sci-Fi Theme: Enjoy a sleek, futuristic interface inspired by the Edex-UI project.
 Custom Sound Effects: Experience immersive keyboard sound effects with each keystroke, using audio inspired by the Edex-UI project.
