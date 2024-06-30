@@ -45,7 +45,7 @@ def play_sound(key):
             print("going bye,")
             pygame.quit()
             sys.exit()
-        elif key.name == 'backspace' or key.name=='esc' or key.name=='windows' or key.name == 'delete' or  key.name == 'tab' or  key.name == 'return' or key.name == 'comma' or key.name == 'period' or key.name == 'tab' :
+        elif  key.name=='esc' or key.name=='windows' or key.name == 'delete' or  key.name == 'tab' or  key.name == 'return' or key.name == 'comma' or key.name == 'period' or key.name == 'tab' :
             delete_enter_comma_options.play()
 
         elif key.name == 'space':
