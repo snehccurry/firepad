@@ -18,9 +18,18 @@ print(pygame.mixer.get_init())
 
 sleeping=False
 
-delete_enter_comma_options = pygame.mixer.Sound('granted.wav')
-space = pygame.mixer.Sound('folder.wav')
-standard = pygame.mixer.Sound('folder.wav')
+# delete_enter_comma_options = pygame.mixer.Sound('granted.wav')
+# space = pygame.mixer.Sound('folder.wav')
+# standard = pygame.mixer.Sound('folder.wav')
+#
+
+
+
+delete_enter_comma_options = pygame.mixer.Sound('KbdFunction.ogg')
+space = pygame.mixer.Sound('KbdSpacebar.ogg')
+standard = pygame.mixer.Sound('KbdKeyTap.ogg')
+
+
 
 
 delete_enter_comma_options.set_volume(1)
